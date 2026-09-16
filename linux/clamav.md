@@ -10,7 +10,7 @@ freshclam
 
 Updates your virus signatures.
 
-If you using linux make sure to use sudo.
+You may need to use sudo for this command.
 
 ## scaning
 
