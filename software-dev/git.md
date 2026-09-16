@@ -31,7 +31,7 @@ One-to-one copies the specified repository.
 ## advanced git commands
 
 ```
-git commit --amend --reset-author --no-edit
+git rebase -i --root --exec "git commit --amend --reset-author --no-edit"
 ```
 
 Resets the author of a commit, useful if you set the wrong git config by mistake.
