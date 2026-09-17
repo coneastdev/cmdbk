@@ -10,5 +10,5 @@ Select your category below, then select the tool. You will be shown a list of co
 | ------- | ------- |
 | [software dev](https://github.com/coneastdev/cmdbk/tree/main/software-dev) | Software development tools |
 | [media](https://github.com/coneastdev/cmdbk/tree/main/media) | Media manipulation tools |
-| [linux](https://github.com/coneastdev/cmdbk/tree/main/linux) | Media manipulation tools |
-| [misc](https://github.com/coneastdev/cmdbk/tree/main/misc) | Media manipulation tools |
+| [linux](https://github.com/coneastdev/cmdbk/tree/main/linux) | Linux and Libre based tools |
+| [misc](https://github.com/coneastdev/cmdbk/tree/main/misc) | Miscellaneous commands |
