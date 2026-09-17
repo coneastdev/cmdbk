@@ -35,3 +35,30 @@ git rebase -i --root --exec "git commit --amend --reset-author --no-edit"
 ```
 
 Resets the author of a commit, useful if you set the wrong git config by mistake.
+
+## git ignore
+
+While not a cli command, gitignore files are important.
+
+**adding a file**
+```
+file.txt
+```
+
+This will block all files with the name "file.txt" in the root directory.
+
+**file formats**
+```
+*.format
+```
+
+This will block all files with the given file format.
+
+**directories**
+```
+/venv
+```
+
+This would block all files inside of a directory called "venv"
+
+This useful for packages like pip and npm were you do not want to publish 3rd party packages to your remote.
