@@ -12,7 +12,7 @@ Some will be windows only and some linux only, make sure to read which one is wh
 python
 ```
 
-This will start the python interpreter, it opened in a console it will take over the console.
+This will start the python interpreter, if opened in a console it will take over the console.
 
 If you want to open a file you will need to specify the path, you can use tab to autocomplete the path.
 
@@ -46,7 +46,7 @@ This will create a virtual environment for you to install dependencies into, the
 
 The second "venv" can be changed to whatever you want your virtual environment to be called, usually this is "venv" or ".venv".
 
-If your using git control make sure to add the venv folder, or directory, to you .gitignore. (see git.md for more)
+If your using git control make sure to add the venv folder, or directory, to your .gitignore. (see git.md for more)
 
 ---
 
@@ -59,7 +59,7 @@ If your using git control make sure to add the venv folder, or directory, to you
 
 This will activate the virtual environment and make any dependencies installed via pip go into the environment only.
 
-Make sure the "./venv/" is the location of your virtual environment if you name sit something else or move it from the default position.
+Make sure the "./venv/" is the location of your virtual environment if you name it something else or move it from the default position, you  will need to change the "./venv/" to the new path.
 
 ***LINUX ONLY***
 ```
